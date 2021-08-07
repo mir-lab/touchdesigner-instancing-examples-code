@@ -2,17 +2,27 @@
 ---
 
 ### Matthew Ragan ###
-_[matthewragan.com](http://matthewragan.com)_  
-_05.24.20_
+_[mir.works](http://mir.works)_ | _[matthewragan.com](http://matthewragan.com)_    
+_Updated 07.06.21_
 
 ---
-## Summary ##
-Well hello there updates.
+# Examples
+Wowza!
 
-This repo has undergone significant modifications to make it into a better tool for exploring instancing, rather than just a mash-up of examples.
+How time forever marches on.
 
-As a tool this project will now start in perform mode and allow you to explore examples, read about how they're constructed, and open the network to see how you might create a similar result.
+After a year of experimenting with this presentation format, it's finally made sense to transition this repository away from holding an explorer toe file and all of the examples. That's challenging to support, and in the long run just means that the time and effort that might be spent on making more examples, instead gets swallowed by maintenance for the distribution structure. 
 
-To use this repo effectively, please clone or download the whole repo. Extract the contents to a location on your computer, and launch the toe file called `instancingTechniques.toe`. 
+For that very reason, this repo is transitioned to only hold instancing example code. You'll now just find tox files here that are individual examples. 
 
-Find the Table of Conents here - [Instancing Examples](https://mir-lab.github.io/touchdesigner-instancing-examples/)
+---
+
+## Upgrades
+
+A generalized resource navigator now lives in this repo:  
+* [TouchDesigner Navigator](https://github.com/mir-lab/touchdesigner-resource-navigator)
+
+The Navigator operations similarly to the previous `TOE` file, only it now can be directed to web pages that support resource examples and documentation. This provides a number of benefits for operation, maintenance, and longevity. 
+
+The documentation for all examples `TOX` files in this repo are moved over to another docs only repo hosted by github pages. You can find all the documentation pages here:
+* [Instancing Examples](https://mir-lab.github.io/td-instacning-copy-temp/)
